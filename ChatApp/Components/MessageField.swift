@@ -2,7 +2,7 @@
 //  MessageField.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva 
 //
 //
 
@@ -59,4 +59,5 @@ struct CustomTextField: View {
             TextField("", text: $text, onEditingChanged: editingChanged, onCommit: commit)
         }
     }
+    
 }

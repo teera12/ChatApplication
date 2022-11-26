@@ -2,7 +2,7 @@
 //  ChatAppUITests.swift
 //  ChatAppUITests
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva
 //
 
 import XCTest

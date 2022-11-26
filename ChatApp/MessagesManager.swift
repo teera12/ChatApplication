@@ -2,7 +2,7 @@
 //  MessagesManager.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva
 //
 
 
@@ -15,7 +15,6 @@ class MessagesManager: ObservableObject {
     @Published private(set) var lastMessageId: String = ""
     
     let db = Firestore.firestore()
-    
     
     init() {
         getMessages()
@@ -58,4 +57,5 @@ class MessagesManager: ObservableObject {
             print("Error adding message to Firestore: \(error)")
         }
     }
+    
 }

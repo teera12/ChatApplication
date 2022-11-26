@@ -2,11 +2,12 @@
 //  ChatAppApp.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva
 //
 
 import SwiftUI
 import Firebase
+
 
 @main
 struct ChatAppApp: App {

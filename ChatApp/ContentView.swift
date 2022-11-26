@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva
 //
 
 import SwiftUI
@@ -40,6 +40,7 @@ struct ContentView: View {
         }
     }
 }
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

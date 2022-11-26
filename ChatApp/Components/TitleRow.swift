@@ -2,7 +2,7 @@
 //  TitleRow.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva 
 //
 
 import SwiftUI
@@ -41,6 +41,7 @@ struct TitleRow: View {
         .padding()
     }
 }
+
 
 struct TitleRow_Previews: PreviewProvider {
     static var previews: some View {

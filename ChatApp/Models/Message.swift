@@ -2,10 +2,11 @@
 //  Message.swift
 //  ChatApp
 //
-//  Created by Bibigul Konkayeva on 23.11.2022.
+//  Created by Bibigul Konkayeva 
 //
 
 import Foundation
+
 
 struct Message: Identifiable, Codable {
     var id: String
